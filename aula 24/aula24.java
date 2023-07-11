@@ -34,7 +34,6 @@ public class aula24 {
         b = 6.0;
         B = 8.0;
         h = 5.0;
-        */
 
         b = 6.0;
         B = 8.0;
@@ -44,10 +43,28 @@ public class aula24 {
         area = (b + B) /2.0 * h;
         System.out.println(area);
 
-        /*
         System.out.println (x);
         System.out.println(y);
-       */
+    
+        Exemplo 4
+
+        a = 5;
+        b = 2;
+
+        resultado = (double) a / b;
+
+        System.out.println (resultado);
+
+        Exemplo 5
+
+        double a;
+        int b;
+
+        a = 5.0;
+        b = a;
+
+        System.out.println(b);
+ */
 }
 
-}
+}   
