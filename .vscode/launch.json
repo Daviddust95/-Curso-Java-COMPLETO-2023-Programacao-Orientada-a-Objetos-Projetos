@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "aula24",
+            "request": "launch",
+            "mainClass": "aula24",
+            "projectName": "-Curso-Java-COMPLETO-2023-Programacao-Orientada-a-Objetos-Projetos_2b39c7fc"
+        },
+        {
+            "type": "java",
+            "name": "aula25",
+            "request": "launch",
+            "mainClass": "aula25",
+            "projectName": "-Curso-Java-COMPLETO-2023-Programacao-Orientada-a-Objetos-Projetos_2b39c7fc"
+        },
+        {
+            "type": "java",
+            "name": "ex001",
+            "request": "launch",
+            "mainClass": "ex001",
+            "projectName": "-Curso-Java-COMPLETO-2023-Programacao-Orientada-a-Objetos-Projetos_2b39c7fc"
+        }
+    ]
+}
