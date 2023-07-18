@@ -10,7 +10,7 @@ Sintaxe:
 /* Exemplo 1
  */
 
-public class Aula24 {
+public class aula24 {
     public static void main(String[] args) {
 
         /*
