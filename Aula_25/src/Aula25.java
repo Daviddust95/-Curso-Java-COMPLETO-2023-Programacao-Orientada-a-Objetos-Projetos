@@ -45,11 +45,12 @@ public class aula25 {
         x = sc.next();
         y = sc.nextInt();
         z = sc.nexDouble();
-        System.out.println("Dados digitados");
+
+        System.out.println("Dados digitados:")
 
         System.out.println(x);
         System.out.println(y);
-        system.out.println(z);
+        System.out.println(z);
         sc.close();
 
     }
