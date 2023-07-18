@@ -1,13 +1,15 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class aula25 {
     public static void main(String[] args) {
 
+        Locale.set.Defalt(Locale.US)
         Scanner sc = new Scanner(System.in);
 
-        String x;
-        x = sc.next();
-        System.out.println("Você digitou: " + x);
+        double x;
+        x = sc.nextDouble();
+        System.out.printf("Você digitou: " + x);
 
         sc.close();
 
