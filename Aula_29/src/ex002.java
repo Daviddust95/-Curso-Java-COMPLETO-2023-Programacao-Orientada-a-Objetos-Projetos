@@ -16,6 +16,5 @@ public class ex002 {
         // Exibir o resultado
 
         System.out.println("A = %.4f", area);
-
     }
 }
