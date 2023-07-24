@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class exercicios {
+public class ex001 {
 
     /*
      * Curso Java Completo
