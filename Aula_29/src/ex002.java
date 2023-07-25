@@ -7,7 +7,7 @@ public class ex002 {
         final double PI = 3.14159;
 
         // Entrada do raio do círculo
-        System.out.println("Qual o valor do raio do círculo ?");
+        System.out.printf("Qual o valor do raio do círculo ?");
         raio = scanner.nextDouble();
 
         // Cálculo da área do círculo
@@ -15,6 +15,6 @@ public class ex002 {
 
         // Exibir o resultado
 
-        System.out.println("A = %.4f", area);
+        System.out.printf("A = %.4f", area);
     }
 }
