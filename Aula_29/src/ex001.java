@@ -21,17 +21,14 @@ public class ex001 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Leitura dos valores inteiros
         System.out.print("Digite o primeiro valor inteiro: ");
         int num1 = scanner.nextInt();
 
         System.out.print("Digite o segundo valor inteiro: ");
         int num2 = scanner.nextInt();
 
-        // Cálculo da soma
         int soma = num1 + num2;
 
-        // Exibição do resultado
         System.out.println(" Soma = " + soma);
 
         scanner.close();
