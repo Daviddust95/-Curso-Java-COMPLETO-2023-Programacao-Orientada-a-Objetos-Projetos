@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex002",
+            "request": "launch",
+            "mainClass": "ex002",
+            "projectName": "-Curso-Java-COMPLETO-2023-Programacao-Orientada-a-Objetos-Projetos_2b39c7fc"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
