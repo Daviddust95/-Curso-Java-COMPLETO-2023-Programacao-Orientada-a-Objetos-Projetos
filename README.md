@@ -1,4 +1,5 @@
 # Curso de Java COMPLETO 2023 Programacao Orientada a Objetos Projetos
+![Curso Interrompido](https://img.shields.io/badge/Curso-Interrompido-red.svg)
 
 <justify>
 Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais.
